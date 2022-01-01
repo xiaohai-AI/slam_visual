@@ -10,7 +10,7 @@
 #### 安装教程
 
 参加文章：
-[输入链接说明](http://zhuanlan.zhihu.com/p/452256687)
+[SLAM十四讲环境搭建（测试环境Ubuntu20.04）](http://zhuanlan.zhihu.com/p/452256687)
 
 #### 使用说明
 
