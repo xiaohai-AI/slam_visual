@@ -9,15 +9,16 @@
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+参见文章：
+[SLAM十四讲环境搭建（测试环境Ubuntu20.04）](http://zhuanlan.zhihu.com/p/452256687)
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  example文件夹是VSCode下使用CMake搭建C++环境工程的例子
+2.  opencv-4.5.3文件夹是OpenCV-4.5.3的源码
+3.  slambook2为高翔博士SLAM十四讲的配套代码。其中在原版程序的slambook2/3rdparty/Sophus/CMakeLists.txt文件的第30行添加了
+set(CMAKE_CXX_FLAGS "-Wno-error=deprecated-declarations -Wno-deprecated-declarations ")
+4.  code_1.61.1-1634175470_amd64.deb为vscode安装包
 
 #### 参与贡献
 
