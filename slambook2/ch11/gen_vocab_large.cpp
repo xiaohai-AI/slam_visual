@@ -56,7 +56,7 @@ int main( int argc, char** argv )
     DBoW3::Vocabulary vocab;
     vocab.create( descriptors );
     cout<<"vocabulary info: "<<vocab<<endl;
-    vocab.save( "vocab_larger.yml.gz" );
+    vocab.save( "vocab_larger1.yml.gz" );
     cout<<"done"<<endl;
     
     return 0;
